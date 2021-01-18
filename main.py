@@ -75,8 +75,3 @@ ser.close()
 
 # inp = "a12204b7428c9896d-602e-399f-475g3220742541h"
 
-#
-# print(processed)
-# f = open("P1.py", "w")
-# f.write(processed)
-# f.close()
